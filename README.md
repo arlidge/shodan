@@ -1,4 +1,4 @@
-![](https://github.com/arlidge/shodan/blob/main/this.txt)
+![]()
 
 # shodan
 Uses shodan command line interface to make requests to shodan API 
